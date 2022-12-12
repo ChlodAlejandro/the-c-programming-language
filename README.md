@@ -12,8 +12,8 @@ to these exercises have been made public here.
 # The Book
 The exact book I'm using is:
 * Kernighan, B. W., &amp; Ritchie, D. M. (1988). The C programming language (Second Edition). Prentice-Hall. ISBN 0-13-110370-9.
-** The specific book I'm using is from the Mapúa University Main Libary, [QA76.73.C15K47 1998](https://mu.primo.exlibrisgroup.com/permalink/63MU_INST/tigdca/alma991000679789707136).
-** You can buy a copy of the book from [Amazon](https://www.amazon.com/C-Programming-Language-2nd-Ed/dp/0131103709) (hardbound).
+    * The specific book I'm using is from the Mapúa University Main Libary, [QA76.73.C15K47 1998](https://mu.primo.exlibrisgroup.com/permalink/63MU_INST/tigdca/alma991000679789707136).
+    * You can buy a copy of the book from [Amazon](https://www.amazon.com/C-Programming-Language-2nd-Ed/dp/0131103709) (hardbound).
 
 The C Programming Language is copyrighted by Bell Telephone Laboratories,
 Incorporated. Code from the book has been written from the ground up and
